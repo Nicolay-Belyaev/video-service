@@ -1,0 +1,12 @@
+{
+  "cameras": [
+    {
+      "id": 1,
+      "name": "Вход",
+      "streams": [
+        { "id": "low", "label": "720p", "url": "rtsp://USERNAME:PASSWORD@192.0.2.10:554/01" },
+        { "id": "high", "label": "4K", "url": "rtsp://USERNAME:PASSWORD@192.0.2.10:554/11" }
+      ]
+    }
+  ]
+}
